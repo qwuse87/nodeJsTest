@@ -3,4 +3,5 @@
 <ul>
 	<li>Read File</li>
 	<li>Write File</li>
+	<li>Write File(Sync)</li>
 </ul>
